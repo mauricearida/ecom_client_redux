@@ -1,0 +1,32 @@
+.signup-container {
+  background-image: url("../../public/images/website.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 0.8;
+}
+
+.signin-container {
+  background-image: url("../../public/images/backgroundd.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 0.8;
+}
+
+.home-page {
+  height: 100vh;
+}
+
+.banner-image {
+  background-image: url("../../public/images/ecom_background.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 1;
+  height: 60%;
+}
+
+.button {
+  width: 100%;
+}
